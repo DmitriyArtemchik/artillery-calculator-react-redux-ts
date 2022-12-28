@@ -1,0 +1,13 @@
+.settindPageLink {
+    text-decoration: none;
+    background-color: rgb(224, 115, 75);
+    padding: 1vw 1vw 1.5vw 1vw;
+    color:rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 100%;
+    font-size: 2vw;
+}
+
+.divSettindPageLink {
+    margin-top: 2vw;
+}

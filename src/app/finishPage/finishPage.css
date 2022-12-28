@@ -1,0 +1,13 @@
+.finish {
+    border: 4px solid rgb(42, 22, 80);
+    margin: 5px 10px 5px 10px;
+}
+
+.finish span {
+    color: blue;
+}
+
+.finish p {
+    color: brown;
+    font-size: 5vh;
+}

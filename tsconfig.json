@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
+    // "checkJs": true,  нужно будет при подключении js модулей
     "lib": [
       "dom",
       "dom.iterable",
